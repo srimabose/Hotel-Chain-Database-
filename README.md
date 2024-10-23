@@ -1,2 +1,3 @@
 # Hotel_Chain
- Hotel Chain Analysis through MSSQL and Power BI to generate insights.
+Dashboard
+![Screenshot 1](Screenshot1.png)
